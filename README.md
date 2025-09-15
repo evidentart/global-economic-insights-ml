@@ -1,7 +1,7 @@
 # Global Economic Insights: Unemployment and GDP Analysis with Machine Learning
 
 ## Project Overview
-This project analyzes how global economic indicators influence unemployment trends across countries. It combines global unemployment data with GDP data from multiple years to explore relationships between GDP and unemployment rates. The project involves exploratory data analysis, feature engineering, and predictive modeling to uncover trends and economic insights.
+This project examines how indicators in the global economy affect unemployment patterns across nations. It utilizes historic unemployment data from across the globe and econonimic data (GDP) from multiple years. After aggregating data, the project analyzes relationships between GDP and levels of employment to identify economic trends. Exploratory data analysis, feature engineering, and predictive modeling are performed to extract trends and insights from the data.
 
 ## Dataset
 The dataset combines:
