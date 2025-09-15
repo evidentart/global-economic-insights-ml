@@ -23,5 +23,5 @@ The dataset combines:
 - Visualize temporal and regional trends with interactive dashboards.
 
 ## License
-© 2025 Ali Akcin. For educational purposes. All rights reserved.
+© 2025 Ali Akcin. For educational purposes. 
 
