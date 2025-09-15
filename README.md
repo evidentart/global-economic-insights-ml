@@ -16,14 +16,6 @@ The dataset combines:
 3. Identify unusual patterns or extreme values, such as high youth unemployment.
 4. Build predictive models using polynomial features and Ridge regression to forecast unemployment rates.
 
-## Data Cleaning and Preprocessing
-- Missing values in numeric columns (GDP, Unemployment) were imputed using the **median** to reduce the effect of outliers.
-- Country names were standardized to ensure consistency across datasets.
-- Outliers were identified and capped at the 1st and 99th percentiles for modeling stability.
-- Age group and category columns were standardized and trimmed for consistent text formatting.
-- Numeric columns were scaled using **StandardScaler** for modeling purposes.
-- Dataset filtered to include only years **2020–2024**.
-
 
 ## Future Work
 - Incorporate additional economic indicators such as inflation, government spending, or labor participation rates.
